@@ -73,6 +73,6 @@ body {
   color: var(--color2);
 }
 
-img:hover {
+.card-body-contentimg img:hover {
   transform: translateY(-15px);
 }/*# sourceMappingURL=style.css.map */
