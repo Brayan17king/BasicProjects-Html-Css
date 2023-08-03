@@ -63,6 +63,7 @@ body{
             text-align: center;
             margin-bottom: 2rem;
             margin-top: 2rem;
+            transition: transform 0.3s ease-in-out;
         }
 
         &-title{
@@ -77,4 +78,12 @@ body{
 
 .card-body-contentimg img:hover {
     transform: translateY(-15px);
+}
+
+.card-footer-poder img:hover{
+    transform: translateY(-15px);
+}
+
+.card-footer-poder img{
+    transition: transform 0.3s ease-in-out;
 }
