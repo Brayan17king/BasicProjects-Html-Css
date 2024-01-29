@@ -19,8 +19,8 @@ body{
 }
 
 .img-container .img img{
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     transition: transform 0.32s ease-in-out;
     border-radius: 50%;
 }
